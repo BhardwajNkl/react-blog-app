@@ -1,0 +1,25 @@
+.header{
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+}
+
+.right{
+    margin-left: auto;
+}
+
+#title{
+    margin-left: 2%;
+    font-size: 2rem;
+    font-weight: 200;
+}
+
+.posts-container{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    padding: 2%;
+    border: 2px solid;
+    border-color: aqua;
+}

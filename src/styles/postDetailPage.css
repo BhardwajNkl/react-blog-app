@@ -1,0 +1,28 @@
+.post-title{
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(40, 200, 70);
+    color: white;
+    padding-left: 2px;
+}
+
+.post-categories{
+    background-color: bisque;
+}
+
+.category{
+    border: 1px solid;
+    border-color: aquamarine;
+    background-color: black;
+    color: white;
+    padding-left: 1px;
+    padding-right: 1px;
+    margin-left: 1%;
+}
+
+.post-content{
+    font-size: large;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+}
